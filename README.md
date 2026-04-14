@@ -18,7 +18,8 @@
 ### 第一步：修改核心配置（务必执行）
 在部署之前，请先修改本仓库中的 `config.json` 文件：
 1.  **修改 UUID**: 将 `"你的UUID"` 替换为你自己生成的真实 UUID（如 `93f6e6d0-...`）。
-2.  **修改 Path**: 将 `"/chat"` 修改为你想要的伪装路径（以 `/` 开头）。
+2.  6cb0b504-95bc-40e5-9bbd-4ead29aef40d
+3.  **修改 Path**: 将 `"/chat"` 修改为你想要的伪装路径（以 `/` 开头）。
 
 ### 第二步：在 Back4App 创建应用
 1.  登录 [Back4App Containers](https://www.back4app.com/containers) 面板。
