@@ -57,3 +57,4 @@ Back4App 会在最外层自动套用 TLS 加密，因此我们在客户端配置
 
 ```text
 vless://填写你的UUID@填写你的域名:443?encryption=none&security=tls&type=ws&host=填写你的域名&path=%2f填写你的路径&sni=填写你的域名#Back4App节点
+vless://6cb0b504-95bc-40e5-9bbd-4ead29aef40d@bakc4app2-3b64tqp1.b4a.run:443?encryption=none&security=tls&type=ws&host=bakc4app2-3b64tqp1.b4a.run&path=%/chat&sni=bakc4app2-3b64tqp1.b4a.run#bakc4app_2
