@@ -43,6 +43,7 @@
 Back4App 会在最外层自动套用 TLS 加密，因此我们在客户端配置时，端口必须填 `443`。
 
 * **地址 (Address)**: `你的App名.b4a.run` (去掉开头的 https://)
+* bakc4app2-3b64tqp1.b4a.run
 * **端口 (Port)**: `443`
 * **用户 ID (UUID)**: 填入你在 config.json 中修改的 UUID
 * **传输协议 (Network)**: `ws`
